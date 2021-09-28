@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Test tools
+test_tool/
+
+# Data Lake
+Data/
+
+# Local Config
+Local_Config.py
